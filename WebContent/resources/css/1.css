@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+.a{
+ 	position:absolute;
+	left:1200px;
+	top:10px
+}
+.a1{
+ 	position:absolute;
+	left:1150px;
+	top:10px
+}
+.b{
+ 	position:absolute;
+	left:1260px;
+	top:10px
+}
+#form{
+	position:absolute;
+	left:500px;
+	top:250px;
+}
+#input{width: 280px;border:1px solid #808080;height: 30px;} 
+#input1{width:50px;border:1px solid #808080;height: 35px;} 
+img{
+position:absolute;
+left:900px;
+top:50px
+}
